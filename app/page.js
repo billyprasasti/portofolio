@@ -7,7 +7,7 @@ const systems = [
   ["DevOps", "Git, Docker, CI / CD"],
   ["Firewalls & Network", "Fortinet, Sophos, Cisco Meraki, MikroTik"],
   ["Servers & Virtualization", "Proxmox, VMware, Windows Server, Linux"],
-  ["Web apps & REST APIs", "Laravel, CodeIgniter, React, Next.js"],
+  ["Web apps", "Laravel, CodeIgniter, React, Next.js"],
 ];
 
 const skills = [
